@@ -24,7 +24,7 @@ To improve the development workflow by **automatically installing the built APK*
 
 ## How to Use
 
-1. Copy this Git repository URL (with release) : https://github.com/r-sabarish/unity-apk-installer.git
+1. Copy this Git repository URL (with release) : https://github.com/r-sabarish/unity-apk-installer.gitv1.0.1
 2. Open your Unity project.
 3. Go to **Window** → **Package Manager**.
 4. Click the **+** button (top left corner) → **Add package from Git URL...**
