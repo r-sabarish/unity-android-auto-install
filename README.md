@@ -34,19 +34,49 @@ To improve the development workflow by **automatically installing the built APK*
 
 ## Requirements
 
-- Unity Editor (with Android Build Support and Android Tools)
-- ADB (Android Debug Bridge)
-- Android device(s) connected via USB or IP
+### Unity Editor  
+Ensure Unity is installed **with Android Build Support**, which can be selected during installation via Unity Hub.
 
 ---
 
-## 📄 License
+### ADB (Android Debug Bridge)  
+ADB is a command-line tool that enables communication with Android devices. It's used to:
+
+- Install APKs  
+- Run shell commands  
+- Debug apps on connected devices  
+
+**Included with the Android SDK**, typically located in:  
+`<Unity Install Folder>/Editor/Data/PlaybackEngines/AndroidPlayer/SDK/platform-tools`
+
+> 🔧 Make sure the SDK path is set in Unity via:  
+**Unity > Preferences > External Tools > Android SDK Path**  
+(Key used internally: `EditorPrefs: AndroidSdkRoot`)
+
+**ADB Documentation:**  
+[https://developer.android.com/studio/command-line/adb](https://developer.android.com/studio/command-line/adb)
+
+---
+
+### Android Device(s)  
+Devices must be connected via **USB** or over **Wi-Fi (IP connection)**.
+
+When connecting for the first time:
+
+- Enable **Developer Options** on your Android device  
+- Turn on **USB debugging**  
+- **Authorize the device** when prompted with the *"Allow USB debugging?"* dialog on the device
+
+---
+
+
+## License
 
 This project is available under [MIT](LICENSE) .
 
 ---
 
-## 👤 Contribution
+## Contribution
 
 Pull requests and contributions are welcome!
 
