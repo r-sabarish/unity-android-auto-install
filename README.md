@@ -30,6 +30,9 @@ To improve the development workflow by **automatically installing the built APK*
 4. Click the **+** button (top left corner) → **Add package from Git URL...**
 5. Paste the Git URL and click **Add**.
 
+![image](https://github.com/user-attachments/assets/120d9611-ba3a-4d69-8fcf-a13d55f39d41)
+
+
 ---
 
 ## Requirements
