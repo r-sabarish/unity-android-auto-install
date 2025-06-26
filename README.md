@@ -22,8 +22,6 @@ To improve the development workflow by **automatically installing the built APK*
 
 ---
 
----
-
 ## How to Use
 
 1. Copy this Git repository URL (with release) : https://github.com/r-sabarish/unity-apk-installer.git
