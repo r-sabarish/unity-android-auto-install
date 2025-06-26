@@ -71,7 +71,8 @@ When connecting for the first time:
 
 ## Known Issues
 
-- After selecting connected devices and installing an APK, the selected device entry may disappear from the list.
+- After selecting connected devices and installing an APK, the selected device may disappear from the list.
+- **Temporary Fix**: First select the APK, then select the device(s), and proceed with the installation.
 
 ---
 
