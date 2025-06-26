@@ -69,6 +69,11 @@ When connecting for the first time:
 
 ---
 
+## Known Issues
+
+- After selecting connected devices and installing an APK, the selected device entry may disappear from the list.
+
+---
 
 ## License
 
