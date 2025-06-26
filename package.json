@@ -1,0 +1,22 @@
+{
+    "name": "com.r-sabarish.unity-android-auto-install",
+    "version": "1.0.1",
+    "displayName": "Unity Android Auto Install",
+    "description": "A Unity Editor tool to automatically install APKs to selected Android devices after build. Supports device selection, IP connection, and post-build installation.",
+    "unity": "2020.3",
+    "keywords": [
+        "unity",
+        "android",
+        "adb",
+        "apk",
+        "editor",
+        "tool",
+        "build",
+        "auto-install"
+    ],
+    "author": {
+        "name": "Sabarish Ramasamy",
+        "email": "sabarish.ach@gmail.com",
+        "url": "https://github.com/r-sabarish"
+    }
+}
